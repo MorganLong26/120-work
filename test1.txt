@@ -2,3 +2,5 @@ Name: Morgan Long
 Date: 09/04/2018
 
 This is my first text document for one of Dr. Musick's Media Arts Courses.
+
+This is another example of a change in the text editor.
