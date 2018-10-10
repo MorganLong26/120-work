@@ -1,7 +1,8 @@
 Morgan Long Creative Coding 1
 
-[Live Sketch Link](file:///C:/Users/mrael/OneDrive/120-work/120-work/HW-7/index.html)
+[Live Sketch Link](https://morganlong26.github.io/120-work/HW-7/)
 
+  
 # Description of what the original code is doing
 
 1. **let ball= {};**
