@@ -57,7 +57,7 @@ move() {
         this.x = this.x + random(-1, 1);
         this.y = this.y + random(-1, 1);
     }
-// Appearance for the clouds 
+// Appearance for the clouds
   show(){
     noStroke();
     fill('white');
